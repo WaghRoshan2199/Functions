@@ -1,2 +1,2 @@
 # Functions
-Trial of hoe to send an assignment
+Trial of how to send an assignment
